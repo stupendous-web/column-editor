@@ -1,0 +1,13 @@
+{
+  "name": "stupendous-web/column-editor",
+  "description": "A Javascript CMS for Laravel",
+  "type": "library",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Stupendous Web Marketing",
+      "email": "topher@stupendouswebmarketing.com"
+    }
+  ],
+  "require": {}
+}
