@@ -1,6 +1,6 @@
 {
   "name": "stupendous-web/column-editor",
-  "description": "A Javascript CMS for Laravel",
+  "description": "A CMS Built on Laravel and React",
   "type": "library",
   "license": "GPL-3.0-only",
   "authors": [
@@ -9,5 +9,8 @@
       "email": "topher@stupendouswebmarketing.com"
     }
   ],
-  "require": {}
+  "require": {
+    "laravel/laravel": "^8.6",
+    "laravel/ui": "^3.3"
+  }
 }
